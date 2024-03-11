@@ -1,0 +1,20 @@
+table {
+  text-align: center !important;
+  width: 100%;
+}
+
+.mat-header-cell {
+  text-align: right;
+}
+
+.mat-cell {
+  text-align: leftt;
+}
+
+.mat-cell-right {
+  text-align: right;
+}
+
+.mat-column-name {
+  text-align: right;
+}
